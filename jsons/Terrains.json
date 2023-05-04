@@ -256,7 +256,7 @@
 	{
 		"name": "Flood plains",
 		"type": "TerrainFeature",
-		"food": 2,
+		"food": 3,
 		"movementCost": 1,
 		"defenceBonus": -0.1,
 		"occursOn": ["Desert"],
@@ -488,9 +488,10 @@
 	{
 		"name": "Sri Pada",
 		"type": "TerrainFeature",
-		"food": 2,
+		"food": 10,
 		"faith": 4,
-		"happiness": 2,
+		"happiness": 12,
+		"production": 6,
 		"occursOn": ["Plains","Grassland"],
 		"uniques": ["Must be adjacent to [0] [Tundra] tiles",
 			"Must be adjacent to [0] [Desert] tiles",
