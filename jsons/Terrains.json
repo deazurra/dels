@@ -488,10 +488,9 @@
 	{
 		"name": "Sri Pada",
 		"type": "TerrainFeature",
-		"food": 10,
+		"food": 4,
 		"faith": 4,
-		"happiness": 12,
-		"production": 6,
+		"happiness": 2,
 		"occursOn": ["Plains","Grassland"],
 		"uniques": ["Must be adjacent to [0] [Tundra] tiles",
 			"Must be adjacent to [0] [Desert] tiles",
