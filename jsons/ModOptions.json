@@ -6,6 +6,8 @@
         "Allow raze holy city"
     ],
     constants:{
+        "maxXPfromBarbarians":1000,
+        "minimalCityDistance":1,
 
     }
 }
