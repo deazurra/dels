@@ -12,7 +12,6 @@
 		"strength": 30,
 		"rangedStrength": 30,
 		"cost": 10,
-		"requiredTech": "Chivalry",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
