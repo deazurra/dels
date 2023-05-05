@@ -3,31 +3,10 @@
 
 	// Always available
 	{
-		"name": "Palace",
-		"isNationalWonder": true,
-		"production": 3,
-		"science": 3,
-		"gold": 3,
-		"culture": 1,
-		"cityStrength": 2,
-		"cost": 1,
-		"uniques": ["Indicates the capital city"]
-	},
-	{
-		"name": "Walls of Babylon",
-		"replaces": "Walls",
-		"cost": 65,
-		"uniqueTo": "Babylon",
-		"cityStrength": 6,
-		"cityHealth": 100,
-		"hurryCostModifier": 25,
-		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured"]
-	},
-	{
 		"name": "Bazaar",
 		"replaces": "Market",
 		"uniqueTo": "Arabia",
+		"cost": 10,
 		"production": 20,
 		"science": 3,
 		"gold": 5,
@@ -40,65 +19,7 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"gold": 25},
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
-			"[+50]% Production when constructing [All] buildings [in this city]", "[+90]% Great Person generation [in this city]", "[+2 Gold] from [Oasis] tiles [in this city]"],
-	},
-	{
-		"name": "Chichen Itza",
-		"culture": 1,
-		"happiness": 4,
-		"greatPersonPoints": {"Great Engineer": 1},
-		"isWonder": true,
-		"uniques": ["[+50]% Golden Age length"],
-		"requiredTech": "Civil Service",
-		"quote": "'The katun is established at Chichen Itza. The settlement of the Itza shall take place there. The quetzal shall come, the green bird shall come. Ah Kantenal shall come. It is the word of God. The Itza shall come.' - The Books of Chilam Balam"
-	},
-	{
-		"name": "Mughal Fort",
-		"cost": 150,
-		"replaces": "Castle",
-		"uniqueTo": "India",
-		"cityStrength": 7,
-		"cityHealth": 25,
-		"culture": 2,
-		"hurryCostModifier": 25,
-		"requiredBuilding": "Walls",
-		"uniques": ["[+1 Gold] [in this city] <after discovering [Flight]>", "Destroyed when the city is captured"],
-		"requiredTech": "Chivalry"
-	},
-	{
-		"name": "Ceilidh Hall",
-		"replaces": "Opera House",
-		"uniqueTo": "Celts",
-		"culture": 4,
-		"happiness": 3,
-		"specialistSlots": {"Artist": 1},
-		"hurryCostModifier": 10,
-		"requiredBuilding": "Amphitheater",
-		"maintenance": 2,
-		"requiredTech": "Acoustics",
-		"uniques": ["Destroyed when the city is captured"]
-	},
-	{
-	{
-		"name": "Windmill",
-		"production": 2,
-		"specialistSlots": {"Engineer": 1},
-		"hurryCostModifier": 25,
-		"maintenance": 2,
-		"uniques": ["Must not be on [Hill]", "[+10]% Production when constructing [All] buildings [in this city]"],
-		"requiredTech": "Economics"
-	},
-	{
-		"name": "Coffee House",
-		"replaces": "Windmill",
-		"uniqueTo": "Austria",
-		"production": 2,
-		"percentStatBonus": {"production": 10},
-		"specialistSlots": {"Engineer": 1},
-		"hurryCostModifier": 25,
-		"maintenance": 2,
-		"uniques": ["[+25]% Great Person generation [in this city]"],
-		"requiredTech": "Economics"
+			"[+50]% Production when constructing [All] buildings [in this city]", "[+90]% Great Person generation [in this city]"],
 	},
 	// Religious buildings
 
