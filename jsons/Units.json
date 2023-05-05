@@ -32,6 +32,7 @@
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"promotions": ["Pictish Courage", "Great Generals II", "Quick Study", "[Janissary] ability", "[Chu-Ko-Nu] ability"],
 		"attackSound": "arrow"
 		//Camel Archer should have no penalty attacking cities
 	},
@@ -51,7 +52,7 @@
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
 		"uniques": ["Can move after attacking","No defensive terrain bonus"],
-		"promotions": ["Great Generals I", "Quick Study"],
+		"promotions": ["Great Generals II", "Quick Study", "[Janissary] ability", "[Chu-Ko-Nu] ability"],
 		"attackSound": "arrow"
 		// Keshik should have no penalty attacking cities
 	},
