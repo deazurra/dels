@@ -47,6 +47,7 @@
 		"culture": 2,
 		"faith": 3,
 		"happiness": 1,
+		"percentStatBonus": {"gold": 50},
 		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
 	},
 	{
