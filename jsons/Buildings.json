@@ -17,11 +17,11 @@
 		"food": 10,
 		"faith": 5,
 		"greatPersonPoints": {"Great Artist": 1},
-		"specialistSlots": {"Engineer": 6},
+		"specialistSlots": {"Engineer": 10},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 50},
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
-			"[+50]% Production when constructing [All] buildings [in this city]", "[+90]% Great Person generation [in this city]"],
+			"[+50]% Production when constructing [All] buildings [in this city]", "[+200]% Great Person generation [in this city]"],
 	},
 	// Religious buildings
 
@@ -50,7 +50,7 @@
 		"faith": 3,
 		"happiness": 1,
 		"percentStatBonus": {"gold": 50},
-		"specialistSlots": {"Artist": 1},
+		"specialistSlots": {"Scientist": 10},
 		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
 	},
 	{
