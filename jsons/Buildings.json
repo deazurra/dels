@@ -16,8 +16,8 @@
 		"cityHealth": 100,
 		"food": 10,
 		"faith": 5,
-		"greatPersonPoints": {"Great Artist": 1},
-		"specialistSlots": {"Engineer": 10},
+		"greatPersonPoints": {"Great Artist": 2},
+		"specialistSlots": {"Engineer": 20},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 50},
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
@@ -31,7 +31,7 @@
 		"faith": 1,
 		"culture": 3,
 		"happiness": 1,
-		"specialistSlots": {"Artist": 1},
+		"specialistSlots": {"Merchant": 5},
 		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
 	},
 	{
@@ -50,7 +50,7 @@
 		"faith": 3,
 		"happiness": 1,
 		"percentStatBonus": {"gold": 50},
-		"specialistSlots": {"Scientist": 10},
+		"specialistSlots": {"Scientist": 20},
 		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
 	},
 	{
