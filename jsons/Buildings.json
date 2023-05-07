@@ -16,6 +16,7 @@
 		"cityHealth": 100,
 		"food": 10,
 		"faith": 5,
+		"greatPersonPoints": {"Great Artist": 1},
 		"specialistSlots": {"Engineer": 6},
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 50},
@@ -49,6 +50,7 @@
 		"faith": 3,
 		"happiness": 1,
 		"percentStatBonus": {"gold": 50},
+		"specialistSlots": {"Artist": 1},
 		"uniques": ["Unbuildable", "Hidden when religion is disabled"]
 	},
 	{
