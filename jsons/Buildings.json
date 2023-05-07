@@ -21,7 +21,7 @@
 		"hurryCostModifier": 25,
 		"percentStatBonus": {"production": 50},
 		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
-			"[+50]% Production when constructing [All] buildings [in this city]", "[+200]% Great Person generation [in this city]"],
+			"[+50]% Production when constructing [All] buildings [in this city]", "Free [Great General] appears", "[+200]% Great Person generation [in this city]"],
 	},
 	// Religious buildings
 
