@@ -8,13 +8,13 @@
 		"unitType": "Archery",
 		"replaces": "Knight",
 		"uniqueTo": "Arabia",
-		"movement": 8,
+		"movement": 10,
 		"strength": 100,
 		"rangedStrength": 100,
 		"cost": 10,
-		"upgradesTo": "Cavalry",
+		"upgradesTo": "Landship",
 		"obsoleteTech": "Military Science",
-		"uniques": ["Can move after attacking","[+2] Sight"],
+		"uniques": ["Can move after attacking","[+4] Sight"],
 		"promotions": ["Pictish Courage", "Great Generals II", "Quick Study", "[Janissary] ability", "[Chu-Ko-Nu] ability"],
 		"attackSound": "arrow"
 		//Camel Archer should have no penalty attacking cities
