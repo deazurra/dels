@@ -21,7 +21,7 @@
 		"innerColor": [146, 221, 10],
 		"favoredReligion": "Islam",
 		"uniqueName": "Trade Caravans",
-		"uniques": ["[+100]% Yield from every [Natural Wonder]", "[-90]% City-State Influence degradation", "[+2] Sight <for [{Military} {Land}] units>", "[+150]% Golden Age length", "May choose [2] additional belief(s) of any type when [founding] a religion", "[-50]% Unhappiness from [Population] [in all cities]", "Double quantity of [Aluminum] produced", "Double quantity of [Uranium] produced"],
+		"uniques": ["[+100]% Yield from every [Great Improvement]", "[-90]% City-State Influence degradation", "[+2] Sight <for [{Military} {Land}] units>", "[+150]% Golden Age length", "May choose [2] additional belief(s) of any type when [founding] a religion", "[-50]% Unhappiness from [Population] [in all cities]", "Double quantity of [Aluminum] produced", "Double quantity of [Uranium] produced"],
 		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
 			"Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul",
 			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"],
