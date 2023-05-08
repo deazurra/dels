@@ -23,6 +23,15 @@
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]","[-75]% Gold cost of acquiring tiles [in this city]", "Provides 1 extra copy of each improved luxury resource near this City",
 			"[+50]% Production when constructing [All] buildings [in this city]", "[+200]% Great Person generation [in this city]"],
 	},
+	{
+		"name": "Temple of Artemis",
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 1},
+        "uniques": ["[+100]% [Food] [in all cities]", "[+50]% [production] [in all cities]", "[+25]% [science] [in all cities]", "[+25]% [culture] [in all cities]", "[+50]% [faith] [in all cities]"],
+		"requiredTech": "Archery",
+		"quote": "'It is not so much for its beauty that the forest makes a claim upon men's hearts, as for that subtle something, that quality of air, that emanation from old trees, that so wonderfully changes and renews a weary spirit.' - Robert Louis Stevenson"
+	},
 	// Religious buildings
 
 	{
